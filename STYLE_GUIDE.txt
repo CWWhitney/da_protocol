@@ -1,0 +1,418 @@
+Scientific Writing Style Guide
+
+A practical guide for clear, honest, and effective scientific communication.
+Based on Strunk & White's Elements of Style, Nature journal guidelines, and scientific writing best practices.
+
+Last Updated: February 2026
+
+
+Core Principle
+
+Clarity and honesty in communication. Every word should serve a purpose. Every claim should be accurate and properly supported.
+
+
+Formatting Standards
+
+Headers and sections
+- Use sentence case for all headers
+- Correct: "Research methodology"
+- Incorrect: "RESEARCH METHODOLOGY" or "Research Methodology"
+- Keep headers descriptive and simple
+- Avoid decorative formatting (boxes, excessive symbols, ASCII art)
+
+Text formatting
+- Plain text is preferred over heavy formatting
+- Use bullets for unordered lists, numbers only when sequence matters
+- Maintain consistent spacing throughout documents
+- Avoid excessive whitespace or decorative elements
+- Use italics sparingly for emphasis or technical terms (not bold or underline)
+
+Tables and figures
+- Label all tables and figures clearly
+- Include descriptive captions
+- Reference in text before they appear
+- Keep formatting simple and consistent
+
+
+Writing Clarity: Strunk & White Principles
+
+Omit needless words
+- Every word should contribute meaning
+- "The question as to whether" → "Whether"
+- "There is no doubt but that" → "Doubtless"
+- "Used for fuel purposes" → "Used for fuel"
+- "In order to" → "To"
+- "For the purpose of" → "For" or "To"
+- "Owing to the fact that" → "Because" or "Since"
+- "In spite of the fact that" → "Although" or "Though"
+- "Call your attention to the fact that" → "Remind you" or "Notify you"
+- "The fact that" can almost always be deleted
+
+Use active voice
+- Preferred: "We measured temperature daily"
+- Avoid: "Temperature was measured daily"
+- Active voice is more direct, vigorous, and easier to read
+- Exception: Passive voice is acceptable when the actor is unknown, unimportant, or when emphasizing the action over the actor
+
+Make definite assertions
+- Avoid timid or evasive language
+- "It is believed that" → "We believe" or state the belief directly
+- "It is interesting to note" → Delete and state the interesting fact
+- Exception: Genuine uncertainty should be acknowledged appropriately
+
+Put statements in positive form
+- "Did not remember" → "Forgot"
+- "Did not pay attention to" → "Ignored"
+- "Did not have much confidence in" → "Distrusted"
+- Positive form is more direct and usually more concise
+
+Use specific, concrete language
+- Prefer concrete terms to vague abstractions
+- "A period of unfavorable weather set in" → "It rained for a week"
+- "The experiment was completed" → "We completed the experiment on March 15"
+
+
+Scientific Writing Standards
+
+Precision and accuracy
+- Use precise, unambiguous language
+- Define all technical terms on first use
+- Spell out abbreviations on first use, then use abbreviation consistently
+- Avoid ambiguous pronouns (this, that, it) without clear antecedents
+- Specify what "this" or "that" refers to: "This result shows..." not just "This shows..."
+- Be quantitative when possible: "increased by 50%" not "increased substantially"
+
+Numbers and statistics
+- Spell out numbers one through nine
+- Use numerals for 10 and above
+- Always use numerals for: measurements, percentages, ages, page numbers, dates, times
+- Use commas in large numbers: 1,000 or 10,000 (not 1000 or 10000)
+- Percentages: 5% or 23% (not five percent)
+- Ranges: 20-30 or 20–30 (be consistent)
+- Report statistics with appropriate precision (usually 2-3 significant figures)
+
+Units and measurements
+- Use standard SI units consistently
+- Include units with all measurements
+- Use spaces between number and unit: 5 kg (not 5kg)
+- Use superscripts properly: m² or m^2
+
+Tense usage
+- Abstract: past or present tense
+- Introduction: present tense for established knowledge
+- Methods: past tense (what you did)
+- Results: past tense (what you found)
+- Discussion: present tense for conclusions, past tense for specific results
+- Be consistent within each section
+
+
+Citations and Academic Integrity
+
+Citation accuracy
+- Only cite papers for claims they actually make
+- Verify citations before including them in your work
+- Read at least the abstract of every paper you cite
+- Preferably read the full paper
+- Check that the cited paper actually supports your specific claim
+- Incorrect: Citing a general review paper to support a specific finding it doesn't contain
+- Correct: Citing the original research paper that reports the finding
+
+Citation format
+- Follow your field's standard citation format consistently
+- In-text citations: (Author Year) or (Author et al. Year) for three or more authors
+- Direct quotes require page numbers
+- Multiple citations in chronological order, separated by semicolons
+- Keep your reference list complete and properly formatted
+
+Distinguishing knowledge types
+Always clearly distinguish between:
+
+Established knowledge
+- Supported by peer-reviewed literature
+- "Participatory approaches improve adoption outcomes (Smith 2020)"
+- Cite appropriately with verified references
+
+Research hypotheses
+- Clearly label as hypotheses, not facts
+- "We hypothesize that X affects Y"
+- "This study investigates whether..."
+- Never present your research question as if the answer is already known
+
+Preliminary findings
+- Mark as tentative or preliminary
+- "Initial results suggest..."
+- "Early data indicate..."
+- "Preliminary analysis shows..."
+
+Research gaps
+- What is not yet known or documented
+- "Despite extensive research on X, we lack understanding of Y"
+- "The relationship between A and B remains poorly documented"
+
+Common citation errors to avoid
+- Citing papers you haven't read
+- Citing papers that don't support your claim
+- Presenting hypotheses as established facts
+- Claiming "studies show" when they don't
+- Missing citations for factual claims
+- Over-citing (every sentence doesn't need citations)
+- Under-citing (failure to credit others' work)
+
+
+Clear Scientific Communication
+
+Avoid jargon when possible
+- Write for intelligent non-specialists when you can
+- Use technical terms when necessary for precision
+- Define all jargon on first use
+- Consider whether a simpler word would work: "use" instead of "utilize"
+
+Paragraph structure
+- One main idea per paragraph
+- Topic sentence states the paragraph's main point
+- Supporting sentences develop that point
+- Concluding sentence when needed for complex paragraphs
+- Connect paragraphs logically with transitions
+
+Logical flow
+- Present information in logical order
+- Use parallel structure for related ideas
+- Connect ideas explicitly
+- Guide the reader through your reasoning
+- Use transitions appropriately (however, therefore, moreover) but don't overuse them
+
+Sentence variety
+- Vary sentence length and structure
+- Short sentences for emphasis
+- Longer sentences for complex ideas
+- Avoid strings of very short or very long sentences
+- Read aloud to check rhythm and flow
+
+
+Common Writing Errors to Avoid
+
+Wordiness
+- "Due to the fact that" → "Because"
+- "At this point in time" → "Now"
+- "In the event that" → "If"
+- "Despite the fact that" → "Although"
+- "At the present time" → "Currently" or "Now"
+- "In regards to" / "With respect to" → "About" or "Regarding"
+- "A majority of" → "Most"
+- "A number of" → "Several" or "Many"
+
+Nominalizations (turning verbs into nouns)
+- "Reached a conclusion" → "Concluded"
+- "Made a decision" → "Decided"
+- "Gave consideration to" → "Considered"
+- "Conducted an investigation" → "Investigated"
+
+Redundancies
+- "Past history" → "History"
+- "Future plans" → "Plans"
+- "End result" → "Result"
+- "Completely eliminate" → "Eliminate"
+- "Absolutely essential" → "Essential"
+
+Weak qualifiers (use sparingly)
+- Very, rather, quite, pretty (usually add nothing)
+- "Very important" → "Important" or "Critical"
+- "Quite significant" → "Significant"
+- Exception: Technical qualifiers are necessary ("statistically significant")
+
+Vague language
+- "A lot of" → Specify the amount
+- "Recently" → Give the date or timeframe
+- "Some researchers" → Which researchers? Cite them
+- "It is believed that" → Who believes it? Cite sources or use "We believe"
+
+
+Specific Writing Contexts
+
+Abstracts
+- Self-contained summary of the entire paper
+- Background (1-2 sentences)
+- Research question or hypothesis (1 sentence)
+- Methods (2-3 sentences)
+- Results (3-4 sentences with key findings)
+- Conclusions (1-2 sentences)
+- No citations in most cases
+- Past tense for what was done, present tense for conclusions
+- 150-300 words depending on journal requirements
+
+Introductions
+- Broad to specific (funnel approach)
+- Establish importance of the topic
+- Review relevant literature
+- Identify the gap your research addresses
+- State your research question or hypothesis
+- Outline the approach
+- Present tense for established knowledge
+- End with clear statement of objectives
+
+Methods
+- Enough detail for replication
+- Past tense throughout
+- Subsections for different methods
+- Cite established methods
+- Describe new methods in detail
+- Include statistical analyses
+- Specify sample sizes, replicates, controls
+
+Results
+- Report findings without interpretation
+- Past tense
+- Present in logical order
+- Use subheadings to organize
+- Reference all figures and tables
+- Report negative results (absence of effect can be important)
+- Don't repeat table/figure data in text (summarize or highlight key points)
+
+Discussion
+- Interpret your findings
+- Compare with previous research
+- Address limitations
+- Discuss implications
+- Suggest future research
+- Present tense for conclusions, past tense for specific results
+- Don't introduce new results here
+
+Conclusions
+- Concise summary of main findings
+- Clear statement of implications
+- Avoid over-interpretation
+- No new information
+
+
+Document Organization
+
+Standard research paper structure
+1. Title (descriptive, specific, concise)
+2. Abstract
+3. Introduction (what is known, what is unknown, what you did)
+4. Methods (how you did it)
+5. Results (what you found)
+6. Discussion (what it means)
+7. Conclusions
+8. Acknowledgments
+9. References
+10. Supplementary materials (if needed)
+
+Project documents
+Keep different document types focused:
+
+Project overviews
+- Work plans, timelines, logistics
+- Minimal citations (only for context)
+- Accessible to non-specialists
+- Focus on deliverables and milestones
+
+Literature reviews
+- Comprehensive synthesis of existing research
+- Extensive citations
+- Scholarly tone
+- Organized by themes or chronologically
+
+Research proposals
+- Clear hypothesis or research questions
+- Justification from literature
+- Detailed methodology
+- Expected outcomes
+- Timeline and budget
+
+
+Revision Checklist
+
+Before finalizing any scientific document, ask:
+
+Content
+□ Is the main message clear?
+□ Are all claims supported by evidence or citations?
+□ Have I distinguished hypothesis from established fact?
+□ Are all technical terms defined?
+□ Have I addressed potential counterarguments?
+
+Clarity
+□ Can I cut any unnecessary words?
+□ Am I using active voice where appropriate?
+□ Does each paragraph have one clear point?
+□ Is the logical flow clear?
+□ Would a non-specialist understand the main points?
+
+Accuracy
+□ Have I verified all citations?
+□ Does each citation support the specific claim?
+□ Are all numbers and statistics correct?
+□ Have I avoided overstating findings?
+□ Are units and measurements consistent?
+
+Format
+□ Are all headers in sentence case?
+□ Is formatting minimal and consistent?
+□ Are figures and tables properly labeled?
+□ Is the reference list complete and formatted correctly?
+
+Style
+□ Have I avoided jargon where possible?
+□ Have I eliminated redundancies?
+□ Have I removed weak qualifiers?
+□ Is sentence variety adequate?
+□ Does it read smoothly when read aloud?
+
+
+Common Peer Review Comments (and How to Avoid Them)
+
+"Unclear what the main finding is"
+→ State your main finding clearly in the abstract and conclusion
+
+"Insufficient detail in methods"
+→ Provide enough detail for replication
+
+"Results and discussion are mixed"
+→ Keep these sections separate; report findings in Results, interpret them in Discussion
+
+"Overclaiming or overstating results"
+→ Be conservative in your conclusions; acknowledge limitations
+
+"Missing relevant citations"
+→ Conduct thorough literature review; cite previous work fairly
+
+"Writing is unclear or wordy"
+→ Revise for clarity; omit needless words
+
+"Figures are unclear or poorly labeled"
+→ Make figures self-explanatory with clear labels and captions
+
+
+Resources for Further Study
+
+Essential references
+- Strunk, W., & White, E. B. (2000). The Elements of Style (4th ed.). Longman.
+- Day, R. A., & Gastel, B. (2016). How to Write and Publish a Scientific Paper (8th ed.). Greenwood.
+- Sword, H. (2012). Stylish Academic Writing. Harvard University Press.
+- Heard, S. B. (2016). The Scientist's Guide to Writing. Princeton University Press.
+
+Journal guidelines
+- Nature: https://www.nature.com/nature/for-authors/writing-guide
+- Science: https://www.science.org/content/page/science-information-authors
+- PLOS: https://plos.org/resources/writing-center/
+
+Writing tools
+- Hemingway Editor (readability)
+- Grammarly (grammar and clarity)
+- Reference managers (Zotero, Mendeley, EndNote)
+- Google Scholar (finding and verifying citations)
+
+
+Final Thoughts
+
+Good scientific writing requires practice. The goal is not perfect prose, but clear communication of your research. When in doubt:
+
+- Choose clarity over complexity
+- Choose simplicity over sophistication
+- Choose accuracy over assertion
+- Choose honesty over hype
+
+Remember: You are not writing to impress, but to inform. Your reader's time is valuable. Make your point clearly, support it adequately, and move on.
+
+The best scientific writing is invisible—the reader focuses on the science, not the writing. That is the goal.
